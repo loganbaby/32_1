@@ -1,0 +1,20 @@
+{
+  "producer": "Vladimir Kott",
+  "screenwriter": "Mikhail Bobrovnik",
+  "operator": "Denis Panov",
+  "composer": "Aleksey Chinov",
+  "date": 2022,
+  "actors": [
+    {
+      "name": "Viktor Harinak",
+      "birthday": 1990,
+      "gender": false
+    },
+
+    {
+      "name": "Taisia Vilkova",
+      "bityhday": 1996,
+      "gender": true
+    }
+  ]
+}
